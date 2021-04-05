@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a project which are secret for now, but will use Infinite Flight's API
+- 🌱 Currently learning more about JavaScript
+- ⚡ Fun fact: I am a Speedcuber
