@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project which are secret for now, but will use Infinite Flight's API
+- 🔭 I'm currently working on a chemical compound database.
 - 🌱 Currently learning more about JavaScript
 - ⚡ Fun fact: I am a Speedcuber
 
